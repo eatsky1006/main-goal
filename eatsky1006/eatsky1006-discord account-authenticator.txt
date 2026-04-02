@@ -1,0 +1,5 @@
+otpauth://totp/Discord:eatsky1006%2B1%40gmail.com?secret=MSG5AEKSBI3LJMITVDAWZCNTMUTSSADQ&issuer=Discord
+otpauth://totp/Discord:eatsky1006%2B5%40gmail.com?secret=FDQZZJRBP4KYJBIOD2ZNU7QTWZY65W6R&issuer=Discord
+otpauth://totp/Discord:eatsky1006%2B4%40gmail.com?secret=BMIYT4N7V2WADT4NAHR3DL2RMDOGENEL&issuer=Discord
+otpauth://totp/Discord:eatsky1006%2B3%40gmail.com?secret=6YXVBYHG22LV4VIVPNMS6SBNUWKRB4AW&issuer=Discord
+otpauth://totp/Discord:eatsky1006%2B2%40gmail.com?secret=DUQIEQ3JPMHD24EPOUKUI7P4Q5EH24FR&issuer=Discord

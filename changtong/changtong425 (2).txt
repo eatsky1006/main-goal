@@ -1,0 +1,1 @@
+otpauth://totp/Google:changtong425%40gmail.com?secret=lhcmpqymyw6kiqww2hhid5woaru7hrfy&issuer=Google
